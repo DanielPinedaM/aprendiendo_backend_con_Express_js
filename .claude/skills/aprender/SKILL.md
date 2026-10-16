@@ -15,7 +15,7 @@ Explícame el problema, su solución y la teoría de backend que hay detrás. In
 
 Termina con un paso a paso que describa la implementacion.
 
-Si la solución requiere comandos, dime cuáles son y qué hace cada uno.
+Si la solución requiere comandos, dime cuáles son y explicar qué hace cada uno.
 
 Cuando te lo indique, revisa mi código: qué está bien, qué falla y por qué, con pistas para corregirlo. Si es correcto, no inventes errores: dímelo y explica por qué.
 
